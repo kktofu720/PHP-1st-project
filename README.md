@@ -1,17 +1,17 @@
 
-# 꿀잠todolist 사이트 URL
+## 꿀잠todolist 사이트 URL
 > http://112.222.157.156:6024/todolist/src/main.php
 
-# 꿀잠todolist 팀 깃 URL
+## 꿀잠todolist 팀 깃 URL
 > https://github.com/0817php-404NFT/todolist
 
- # 팀 구성 및 역할
+## 팀 구성 및 역할
  > 팀원 :  김민주
   - 작성페이지
   - 수정페이지
   - 입력 검색 페이지
 
-# 프로젝트 개발 환경
+## 프로젝트 개발 환경
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -24,11 +24,11 @@
 
 
 
-# 프로젝트 일정
+## 프로젝트 일정
 > Notion의 간트차트 활용
 - https://www.notion.so/7ff7e9fba62047aca5c19d9f28126c7b?v=4b60a3deb91246da9590448a0ff3ab37&pvs=4
 
-# 🍎꿀잠 To DO List
+## 🍎꿀잠 To DO List
 
 | Week | 전원 | 완료 | 내용 |
 | ------ | -- | -- |----------- |
@@ -41,7 +41,7 @@
 | 4주차 | ☑️ | ☑️ | 코드리뷰 -> 오류 코드 수정 작업  |
 | 4주차 | ☑️ | ☑️ | 테스트 및 구현 |
 
-# 🍎꿀잠 PPT (맡은 파트)
+## 🍎꿀잠 PPT (맡은 파트)
 ![image](https://github.com/kktofu720/PHP-1st-project/assets/142575027/501f178d-cdee-4029-88fe-973167c3f41e)
 ![image](https://github.com/kktofu720/PHP-1st-project/assets/142575027/d146525f-28b4-4ee3-bc91-689ed62c4a7a)
 ![image](https://github.com/kktofu720/PHP-1st-project/assets/142575027/9ecad873-e008-4f83-88ed-6271c059caa5)
