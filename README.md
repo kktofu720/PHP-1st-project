@@ -1,6 +1,6 @@
 
 # 꿀잠todolist 사이트 URL
-> http://112.222.157.156:6004/main.php
+> http://112.222.157.156:6024/todolist/src/main.php
 
 # 꿀잠todolist 팀 깃 URL
 > https://github.com/0817php-404NFT/todolist
